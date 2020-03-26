@@ -1,0 +1,15 @@
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\bin\Debug\MVMApp.exe.config
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\obj\Debug\MVMApp.csprojResolveAssemblyReference.cache
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\obj\Debug\MVMApp.Form1.resources
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\obj\Debug\MVMApp.Properties.Resources.resources
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\obj\Debug\MVMApp.csproj.GenerateResource.Cache
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\bin\Debug\MVMApp.exe
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\bin\Debug\MVMApp.pdb
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\bin\Debug\OxyPlot.dll
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\bin\Debug\OxyPlot.WindowsForms.dll
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\bin\Debug\OxyPlot.xml
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\bin\Debug\OxyPlot.WindowsForms.xml
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\obj\Debug\MVMApp.exe
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\obj\Debug\MVMApp.pdb
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\bin\Debug\Newtonsoft.Json.dll
+D:\GIT\MVM\MVMapp\MVMApp\MVMApp\bin\Debug\Newtonsoft.Json.xml
